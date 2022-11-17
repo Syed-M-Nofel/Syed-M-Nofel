@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-m-nofel&label=Profile%20views&color=0e75b6&style=flat" alt="syed-m-nofel" /> </p>
 
-- 🔭 I’m currently working on **Data Structures and Algorithms.**
+- 🔭 I’m currently working on **Data Structures and Assembly Language.**
 
 - 💬 Ask me about **HTML, CSS, Programming Fundamentals and Object-Oriented Programming in C++**
 
