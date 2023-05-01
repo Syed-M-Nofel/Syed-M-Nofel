@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android Development.<br>💬 Ask me about HTML, CSS, Programming Fundamentals and Object-Oriented Programming in C++. Moreover, you can ask me about Data Structures and Android Development. <br>📫 How to reach me syednofel7281@gmail.com<br>⚡ Fun fact I always suffer on my quick decisions.
+🔭 I’m currently working on Android Development.<br>💬 Ask me about HTML, CSS, Programming Fundamentals and Object-Oriented Programming in C++. Moreover, you can ask me about Android Development. <br>📫 How to reach me syednofel7281@gmail.com<br>⚡ Fun fact I always suffer on my quick decisions.
 
 
 ## 🌐 Socials:
@@ -13,10 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-M-Nofel&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Syed-M-Nofel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Syed-M-Nofel&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Syed-M-Nofel&icon=0&color=0)](https://visitcount.itsvg.in)
