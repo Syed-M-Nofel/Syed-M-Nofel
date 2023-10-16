@@ -1,7 +1,6 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=100&center=true&random=false&width=435&lines=Hey+there%2C+Coderrrrrrrrrrrrrrrr..;Code%2C+coffee%2C+repeat.;can+you+grab+one+for+me%3F;Fueling+my+code+with+more+coffee+than+lines." alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=100&center=true&random=false&width=435&lines=Hey+there%2C+Coderrrrrrrrrrrrrrrr..;Code%2C+coffee%2C+repeat.;can+you+grab+one+for+me%3F;Fueling+my+code+with+more+coffee+than+lines." alt="Typing SVG" /></a>
 
 
 # 💫 About Me:
