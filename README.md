@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android Development.<br>💬 Ask me about HTML, CSS, Programming Fundamentals and Object-Oriented Programming in C++. Moreover, you can ask me about Android Development. <br>📫 How to reach me syednofel7281@gmail.com<br>⚡ Fun fact I always suffer on my quick decisions.
+🔭 I’m currently working on Web Development.<br>💬 Ask me about HTML, CSS, Programming Fundamentals and Object-Oriented Programming in C++, Java, JS. Moreover, you can ask me about Front-end Web Development. <br>📫 How to reach me syednofel7281@gmail.com<br>⚡ Fun fact Constantly refreshing, not just web pages, but my sense of humor in coding.
 
 
 ## 🌐 Socials:
