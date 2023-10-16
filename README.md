@@ -1,5 +1,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&random=false&width=435&lines=Hey+there!;I+make+web+servers+say+%3A;'hello';but+in+multiple+languages!)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🔭 I’m currently working on Web Development.<br>💬 Ask me about HTML, CSS, Programming Fundamentals and Object-Oriented Programming in C++, Java, JS. Moreover, you can ask me about Front-end Web Development. <br>📫 How to reach me syednofel7281@gmail.com<br>⚡ Fun fact Constantly refreshing, not just web pages, but my sense of humor in coding.
 
