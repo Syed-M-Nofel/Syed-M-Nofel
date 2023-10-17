@@ -1,10 +1,44 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=100&center=true&random=false&width=435&lines=Hey+there%2C+Coderrrrrrrrrrrrrrrr..;Code%2C+coffee%2C+repeat.;can+you+grab+one+for+me%3F;Fueling+my+code+with+more+coffee+than+lines." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100&center=true&vCenter=true&random=false&width=435&lines=Code%2C+coffee%2C+repeat.;Fueling+my+code..+;..with+more+coffee.;............................................." alt="Typing SVG" /></a>
+
+<h3 align="center"> A passionate Web Developer from Pakistan. </h3>
+<br/>
+
+<div align="center">
+
+🔭 I'm currently working on **Front-end Web Development**
+
+🌱 I'm currently learning on **JS, React.JS**
+
+💬 Ask me about **JS, React.JS, Wordpress Development....or any other thing [here](https://github.com/Syed-M-Nofel)**
+
+⚡ Fun fact **I turn coffee into code!**
+
+</div>
+<div align="center">
+<a href=" ">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/syed-nofel/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+</a>
+</div>
+
+<hr/>
+
+<h2 align="center">🔧 Languages-Frameworks-Tools 🔧</h2>
+</br>
+<div align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,tailwind,windicss,wordpress,js,react,jquery,java,python,&theme=dark "/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,bootstrap,dotnet,firebase,mongodb,mysql,sqlite,eclipse,visualstudio,vscode,stackoverflow,figma,&theme=dark"/>
+</a>
+</div>
 
 
-# 💫 About Me:
-🔭 I’m currently working on Web Development.<br>💬 Ask me about HTML, CSS, Programming Fundamentals and Object-Oriented Programming in C++, Java, JS. Moreover, you can ask me about Front-end Web Development. <br>📫 How to reach me syednofel7281@gmail.com<br>⚡ Fun fact Constantly refreshing, not just web pages, but my sense of humor in coding.
+
+
 
 
 ## 🌐 Socials:
