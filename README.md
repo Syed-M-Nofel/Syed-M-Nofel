@@ -13,7 +13,7 @@
 
 🌱 I'm currently learning on **JS, React.JS**
 
-💬 Ask me about **JS, React.JS, Wordpress Development....or any other thing [here](https://github.com/Syed-M-Nofel)**
+💬 Ask me about **JS, React.JS, Wordpress Development....or any other thing [here](https://syed-m-nofel.github.io/Profolio/)**
 
 ⚡ Fun fact **I turn coffee into code!**
 
