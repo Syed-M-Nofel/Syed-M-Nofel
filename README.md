@@ -4,16 +4,16 @@
 <br/>
 
 
-<h2 align="center"> Introducing a code-sorcerer from the world of web development! 🧙‍♂️💻 </h2>
+<h2 align="center"> "Python alchemist transmuting web dreams into AI realities 🌟🐍💻" </h2>
 <br/>
 
 <div align="center">
 
-🔭 I'm currently working on **Front-end Web Development**
+🔭 I'm currently working on **Full Stack Web Development**
 
-🌱 I'm currently learning on **JS, React.JS**
+🌱 I'm currently learning on **AI (python)**
 
-💬 Ask me about **JS, React.JS, Wordpress Development....or any other thing [here](https://syed-m-nofel.github.io/Profolio/)**
+💬 Ask me about **React.js, Node.js, Express.js, Wordpress Development....or any other thing [here](https://syed-m-nofel.github.io/Portfolio/)**
 
 ⚡ Fun fact **I turn coffee into code!**
 
