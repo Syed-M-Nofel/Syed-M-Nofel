@@ -80,6 +80,4 @@
 
 <img src="https://raw.githubusercontent.com/Syed-M-Nofel/Syed-M-Nofel/output/snake.svg" alt="Snake animation" />
 
-![](https://github-profile-trophy.vercel.app/?username=Syed-M-Nofel&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+###
