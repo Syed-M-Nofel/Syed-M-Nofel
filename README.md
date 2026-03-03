@@ -3,7 +3,7 @@
 <div align="center">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,jquery,python,&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,bootstrap,dotnet,firebase,mongodb,mysql,sqlite,eclipse,visualstudio,vscode,stackoverflow,figma,&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,mongodb,mysql,sqlite,&theme=dark"/>
 </a>
 </div>
 
