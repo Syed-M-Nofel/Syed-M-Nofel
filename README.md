@@ -10,8 +10,7 @@
 <h2 align="center">Github-Stats/Streaks/Languages</h2>
 </br>
 
-![Syed-M-Nofel's Stats](https://github-readme-stats.vercel.app/api?username=Syed-M-Nofel&theme=merko&show_icons=true&hide_border=false&count_private=false) ![Syed-M-Nofel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Syed-M-Nofel&theme=merko&hide_border=false)
-![Syed-M-Nofel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-M-Nofel&theme=merko&show_icons=true&hide_border=false&layout=compact)
+![Syed-M-Nofel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Syed-M-Nofel&theme=merko&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Syed-M-Nofel&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
