@@ -1,5 +1,6 @@
 <h2 align="center">Languages-Frameworks-Tools</h2>
 </br>
+
 ### Languages-Frameworks-Tools
 <div align="center">
 <a href="https://skillicons.dev">
@@ -10,6 +11,7 @@
 
 <h2 align="center">Github-Stats</h2>
 </br>
+
 ### Github-Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-M-Nofel&theme=merko&hide_border=false" alt="Syed-M-Nofel's Streak" />
