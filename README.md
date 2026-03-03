@@ -17,4 +17,5 @@
 
 <h2 align="">Random Dev Quote</h2>
 </br>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
