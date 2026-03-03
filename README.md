@@ -2,7 +2,7 @@
 </br>
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,tailwind,windicss,wordpress,js,react,jquery,java,python,&theme=dark "/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,jquery,python,&theme=dark "/>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,bootstrap,dotnet,firebase,mongodb,mysql,sqlite,eclipse,visualstudio,vscode,stackoverflow,figma,&theme=dark"/>
 </a>
 </div>
@@ -13,9 +13,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-M-Nofel&theme=merko&hide_border=false" alt="Syed-M-Nofel's Streak" />
 </div>
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Syed-M-Nofel&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
