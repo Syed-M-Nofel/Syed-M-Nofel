@@ -3,7 +3,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Syed-M-Nofel)
 
 ---
----
 
 ### Languages, Frameworks & Tools
 
@@ -45,19 +44,7 @@
 
 ---
 
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Syed-M-Nofel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-M-Nofel&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF9900&currStreakLabel=58A6FF" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-M-Nofel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
----
-
-### GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Syed-M-Nofel&theme=onestar&no-frame=true&no-bg=true&column=7)
 
 ---
 
