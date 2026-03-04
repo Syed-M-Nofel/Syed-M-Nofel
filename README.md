@@ -52,6 +52,5 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Syed-M-Nofel&color=58A6FF&style=flat-square&label=Profile+Views)
