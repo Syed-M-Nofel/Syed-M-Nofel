@@ -1,7 +1,29 @@
-### Tech Stack
-<br>
+<div align="center">
 
-<div align="">
+# Hey there! I'm Syed Nofel 👋
+
+### Full Stack Developer · ML Enthusiast · Building things that matter
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-nofel)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Syed-M-Nofel)
+
+</div>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🔭 Full Stack Developer specializing in the **MERN Stack** & **Next.js**
+- 🗄️ Experienced with **SQL, MySQL, Drizzle ORM** for robust database solutions
+- 🤖 Passionate about **Machine Learning** & **Deep Learning**
+- 🌱 Always learning, always building — currently exploring the intersection of **AI × Web**
+- ⚡ I believe in writing clean code, shipping fast, and iterating often
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
 
 **Frontend**
 
@@ -43,9 +65,9 @@
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
-<div align="">
+<div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Syed-M-Nofel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-M-Nofel&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF9900&currStreakLabel=58A6FF" />
@@ -56,9 +78,19 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Syed-M-Nofel&theme=tokyonight&no-frame=true&no-bg=true&column=7)
+
+</div>
+
+---
+
 ### ✍️ Random Dev Quote
 
-<div align="">
+<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -68,8 +100,6 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-nofel)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Syed-M-Nofel)
 ![Profile Views](https://komarev.com/ghpvc/?username=Syed-M-Nofel&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 **💬 Let's connect — I'm always open to collaborating on exciting projects!**
